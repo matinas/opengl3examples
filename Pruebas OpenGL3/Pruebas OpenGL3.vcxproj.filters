@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="src\main.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\scene_manager.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\shader.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="include\models.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\scene_manager.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\shader.h">
+      <Filter>include</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="src">
+      <UniqueIdentifier>{66535711-fe19-49ca-9ab9-9f3308208861}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="include">
+      <UniqueIdentifier>{74b9beae-02cb-47a3-87c8-87028d748291}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="shaders">
+      <UniqueIdentifier>{5706bbbf-bf08-4198-a719-dd5d3677a96c}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="src\shader.frag">
+      <Filter>shaders</Filter>
+    </None>
+    <None Include="src\shader.vert">
+      <Filter>shaders</Filter>
+    </None>
+    <None Include="src\shader_2d.frag">
+      <Filter>shaders</Filter>
+    </None>
+    <None Include="src\shader_2d.vert">
+      <Filter>shaders</Filter>
+    </None>
+    <None Include="src\shader_2d_2.frag">
+      <Filter>shaders</Filter>
+    </None>
+    <None Include="src\shader_2d_2.geom">
+      <Filter>shaders</Filter>
+    </None>
+    <None Include="src\shader_2d_2.vert">
+      <Filter>shaders</Filter>
+    </None>
+    <None Include="src\shader_2d_tex.frag">
+      <Filter>shaders</Filter>
+    </None>
+    <None Include="src\shader_2d_tex.vert">
+      <Filter>shaders</Filter>
+    </None>
+    <None Include="src\shader_square_tex.frag">
+      <Filter>shaders</Filter>
+    </None>
+    <None Include="src\shader_square_tex.vert">
+      <Filter>shaders</Filter>
+    </None>
+    <None Include="src\shader_tex.frag">
+      <Filter>shaders</Filter>
+    </None>
+    <None Include="src\shader_tex.vert">
+      <Filter>shaders</Filter>
+    </None>
+  </ItemGroup>
+</Project>
