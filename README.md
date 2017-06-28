@@ -8,3 +8,5 @@ Few examples showing the use of OpenGL3 and GLSL to generate simple 2D and 3D sc
 <p align="center">
   <img src="http://i.imgur.com/OvOpuGK.gif" width="350"/>
 </p>
+
+https://user-images.githubusercontent.com/5633645/27615123-77adb60e-5b7c-11e7-94d9-6465373843f0.gif
