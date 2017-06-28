@@ -7,9 +7,9 @@
 									// The solution is here (adding a little code to setup.hpp): https://github.com/g-truc/glm/issues/377
 
 #define V_BLANK 1
-#define RENDER_3D_TEX_4	// RENDER_2D		: 
-						// RENDER_2D_2		:
-						// RENDER_2D_3		:
+#define RENDER_3D_TEX_4	// RENDER_2D		: Render a 2D
+						// RENDER_2D_2		: Render a 2D
+						// RENDER_2D_3		: Render a 2D
 						// RENDER_2D_TEX	: Render a 2D object with a texture
 						// RENDER_3D		: Render a 3D object
 						// RENDER_3D_TEX	: Render a 3D object with a texture
